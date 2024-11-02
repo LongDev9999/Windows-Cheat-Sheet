@@ -1,4 +1,4 @@
-# Estimating the shot angle
+#### 1.Estimating the shot angle
 
 Đây là một hệ thống đơn giản mà tôi sử dụng để ước tính góc đánh. Góc là thông tin hữu ích khi bạn cần xác định cú đánh của mình bằng hệ thống ngắm phân số, hệ thống ngắm trục hoặc bất kỳ mục đích sử dụng nào khác mà bạn có thể có. Tôi đưa ra hai phương pháp khác nhau bên dưới. Một trong số chúng không yêu cầu gì hơn là gậy cơ của bạn và phương pháp còn lại là một khối phấn.
 
@@ -10,4 +10,35 @@ You can see in the above example that our cue ball is right on a 45 degree cut.
 
 Phương pháp 2: Lấy một khối phấn và đặt ngay tại điểm bóng ma, với mặt hoàn toàn thẳng hàng với túi. Bây giờ các cạnh của khối phấn chỉ ra đường tiếp tuyến 90 độ, và các góc của khối phấn chỉ ra góc cắt 45 độ. Xem sơ đồ:
 
-[![angles2](http://www.billiardsthegame.com/wp-content/uploads/2011/11/angles2.png)](http://www.billiardsthegame.com/wp-content/uploads/2011/11/angles2.png)Thats it! Now you know how to quickly and accurately determine your shot angle within a few degrees.
+[![angles2](http://www.billiardsthegame.com/wp-content/uploads/2011/11/angles2.png)](http://www.billiardsthegame.com/wp-content/uploads/2011/11/angles2.png)
+
+#### 2.GÓC 15- 30 ĐỘ
+
+![](https://i.imgur.com/mvDuddS.png)
+
+
+#### 3.GÓC TỪ 30 - 40 ĐỘ
+
+ ![](https://i.imgur.com/t5hEW93.png)
+
+
+#### 4.GÓC TỪ 40 - 50 ĐỘ
+
+![](https://i.imgur.com/Onvn1AA.png)
+
+
+
+#### 5.GÓC TRÊN 55 ĐỘ
+
+![](https://i.imgur.com/ZGwezLE.png)
+
+
+
+#### NGẮM TƯƠNG ỨNG VỚI GÓC ĐỘ
+
+
+
+
+![](https://i.imgur.com/FAG1wsY.png)
+
+![ball-hit fractions illustration](https://billiards.colostate.edu/images/ball-hit_fractions.jpg)
