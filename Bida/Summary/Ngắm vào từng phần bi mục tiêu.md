@@ -17,16 +17,33 @@ Phương pháp 2: Lấy một khối phấn và đặt ngay tại điểm bóng 
 ![](https://i.imgur.com/mvDuddS.png)
 
 
+
+![](https://i.imgur.com/7kAUDUZ.png)
+
+
+
 #### 3.GÓC TỪ 30 - 40 ĐỘ
 
  ![](https://i.imgur.com/t5hEW93.png)
+
+
+
+
+
+![](https://i.imgur.com/d6n1piQ.png)
+
+
+
+
+
+
 
 
 #### 4.GÓC TỪ 40 - 50 ĐỘ
 
 ![](https://i.imgur.com/Onvn1AA.png)
 
-
+![](https://i.imgur.com/CrRlhmL.png)
 
 #### 5.GÓC TRÊN 55 ĐỘ
 
