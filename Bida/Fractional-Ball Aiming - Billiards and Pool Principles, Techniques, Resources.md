@@ -4,6 +4,8 @@ HOW TO Fractional Aim
 
 Fractional ball aiming is illustrated and described in the following videos, the first from [Vol. I](https://drdavebilliards.com/aiming/disc-i/) of [How to Aim Pool Shots (HAPS)](https://drdavebilliards.com/aiming/):
 
+![](https://i.imgur.com/FAG1wsY.png)
+
 ![ball-hit fractions illustration](https://billiards.colostate.edu/images/ball-hit_fractions.jpg)
 
 And here are ball layouts one can use to set up the standard ball-hit fractions at a table (from “[HAPS – Part I: Fractional-Ball Aiming](https://billiards.colostate.edu/bd_articles/2014/nov14.pdf)” – BD, November, 2014, and “[Aim, Align, Sight – Part I: Introduction and Ghost Ball Systems](https://billiards.colostate.edu/bd_articles/2011/june11.pdf)” – BD, June, 2011):
