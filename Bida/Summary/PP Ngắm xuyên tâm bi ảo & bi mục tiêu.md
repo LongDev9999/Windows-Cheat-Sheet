@@ -2,6 +2,12 @@
 
 ![](https://i.imgur.com/JFKc8tS.png)
 
+
+![](https://i.imgur.com/FAG1wsY.png)
+
+![ball-hit fractions illustration](https://billiards.colostate.edu/images/ball-hit_fractions.jpg)
+
+
 ![](https://i.imgur.com/ybGcmTX.png)
 
 
