@@ -2,8 +2,9 @@
 
 - Tư thế vào bộ
 - Cầu tay
-- Ra ngọn thẳng
 - Độ tĩnh
+- Lỏng cổ tay
+- Ra ngọn thẳng
 - Cơ Sau khi ra ngọn giữ nguyên
 - Biết các lực 1/2/3/4 / Kiểm soát lực
 - Tránh các lỗi cơ bản
@@ -37,13 +38,13 @@
 
 
 
-## Level 5: Biết điều bi cái
+## Level 5: Biết điều khiển con bi Chủ / điều bi cái
 
 https://www.youtube.com/playlist?list=PLA0iG-ikV1qqgKtMer2tUmiVnoXUQSUxf
 
 
 
-- Các quy tắc góc ra bi cái bao nhiêu độ
+- Đánh xong ra ngọn xong thì bi cái đi đâu,hướng nào,vùng nào
 
 - **Kết hợp Cule /Apphe / trô **9h/10/12h/1h/3h /4h/5h /6h để điều bi cái ra bi tiếp theo
 
@@ -68,6 +69,8 @@ https://www.youtube.com/playlist?list=PLA0iG-ikV1qqgKtMer2tUmiVnoXUQSUxf
 - Chặn bi đối thủ
 
 - Ép góc vào băng/ xa lỗ
+
+- Moi bi đối thủ ra khỏi cửa lỗ
 
   
 

@@ -25,7 +25,17 @@ Hệ thống này sử dụng mặt đồng hồ tưởng tượng trên đầu/
 
 Hệ thống hoạt động bằng cách xoay điểm ngắm vào vị trí đồng hồ của nó tùy thuộc vào phạm vi trên đường xích đạo của quả bóng vật thể mà điểm ngắm nằm. Sau đó sử dụng điểm ngắm làm đường ngắm đến điểm ngắm. Các vị trí khác nhau này bù cho độ cong của quả bóng. Do đó, khi cần cắt, bạn có thể ngắm vào điểm mục tiêu thực tế (điểm tiếp xúc) mà không cần phải ước tính điều chỉnh cho chiều thứ ba của quả bóng. Điều này được chứng minh trong bài tập sau trong bài viết này cũng như trong video.
 
-![img](https://www.pooldawg.com/articleee/assests/Ferrule-Aiming-pic-900-arrow-new.jpg)![img](https://www.pooldawg.com/articleee/assests/Ferrule-Aiming-pic-1030-arrow-new.jpg)![img](https://www.pooldawg.com/articleee/assests/Ferrule-Aiming-pic-1200-arrow-new.jpg)![img](https://www.pooldawg.com/articleee/assests/Ferrule-Aiming-pic-130-arrow-new.jpg)![img](https://www.pooldawg.com/articleee/assests/Ferrule-Aiming-pic-300-arrow-new.jpg)
+<img src="https://www.pooldawg.com/articleee/assests/Ferrule-Aiming-pic-900-arrow-new.jpg" alt="img" style="zoom:67%;" />
+
+
+
+
+
+GOC 10H30
+
+![](https://i.imgur.com/6sjpaL0.jpg)
+
+<img src="https://www.pooldawg.com/articleee/assests/Ferrule-Aiming-pic-1030-arrow-new.jpg" alt="img" style="zoom:67%;" /><img src="https://www.pooldawg.com/articleee/assests/Ferrule-Aiming-pic-1200-arrow-new.jpg" alt="img" style="zoom:67%;" /><img src="https://www.pooldawg.com/articleee/assests/Ferrule-Aiming-pic-130-arrow-new.jpg" alt="img" style="zoom: 67%;" /><img src="https://www.pooldawg.com/articleee/assests/Ferrule-Aiming-pic-300-arrow-new.jpg" alt="img" style="zoom:67%;" />
 
 Khi sử dụng vị trí 12:00 giờ, phạm vi các phát bắn cắt hình học là từ 0° đến 11,25°. Các vị trí 10:30 & 1:30 liên quan đến phạm vi từ 11,25° đến 33,75°. Cuối cùng, các vị trí 3:00 & 9:00 liên quan đến phạm vi từ 33,75° đến 56,25°. Một bộ dễ tiếp cận hơn là đối với bất kỳ thứ gì nhỏ hơn 12°, hãy sử dụng điểm ngắm 12:00. Đối với 12°-30°, hãy sử dụng điểm ngắm 10:30 hoặc 1:30 và đối với 30° đến 45°, hãy sử dụng điểm ngắm 9:00 hoặc 3:00. (Video 8:44)
 
