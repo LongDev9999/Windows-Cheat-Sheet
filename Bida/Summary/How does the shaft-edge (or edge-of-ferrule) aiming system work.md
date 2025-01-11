@@ -12,9 +12,9 @@ Bạn cũng có thể [sử dụng toàn bộ cơ để giúp bạn ngắm bắn
 
 ![hệ thống ngắm cạnh trục](https://billiards.colostate.edu/images/shaft_edge_aim.JPG)
 
-> Khá dễ hiểu. Nếu tôi cắt cú đánh của mình sang bên trái, tôi sử dụng cạnh trái của cán gậy, nếu cú đánh của tôi thẳng không có góc, tôi sử dụng tâm của đầu gậy, và nếu tôi cắt sang bên phải, tôi sử dụng cạnh phải của cán gậy. Không vấn đề gì, tôi đánh phần cán gậy đó trực tiếp vào điểm tiếp xúc trên bi mục tiêu. Nếu tôi phải áp dụng bất kỳ cú đánh xoáy ngang nào, tôi chỉ cần di chuyển gậy song song với mục tiêu ban đầu và tôi vẫn đánh phần gậy đó vào điểm tiếp xúc trên bi mục tiêu. Không xoắn hoặc xoay hoặc bất cứ điều gì khác.
+> Khá dễ hiểu. **Nếu tôi cắt cú đánh của mình sang bên trái, tôi sử dụng cạnh trái của cán gậy, nếu cú đánh của tôi thẳng không có góc, tôi sử dụng tâm của đầu gậy, và nếu tôi cắt sang bên phải, tôi sử dụng cạnh phải của cán gậy. Không vấn đề gì, tôi đánh phần cán gậy đó trực tiếp vào điểm tiếp xúc trên bi mục tiêu.** Nếu tôi phải áp dụng bất kỳ cú đánh xoáy ngang nào, tôi chỉ cần di chuyển gậy song song với mục tiêu ban đầu và tôi vẫn đánh phần gậy đó vào điểm tiếp xúc trên bi mục tiêu. Không xoắn hoặc xoay hoặc bất cứ điều gì khác.
 
-**từ nghệ sĩ phối màu:**
+
 
 ![hệ thống ngắm cạnh trục cắt trái](https://billiards.colostate.edu/images/shaft_aim_left_cut.jpg)
 

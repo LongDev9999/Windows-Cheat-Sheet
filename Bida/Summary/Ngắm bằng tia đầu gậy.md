@@ -1,14 +1,10 @@
 Cách ngắm bằng tia đầu gậy
 
-
-
-**NẾU HƯỚNG VÀO LỖ LÀ BÊN PHẢI** ==> **HƯỚNG TRÁI BI MỤC TIÊU**
-
 #### 1.Góc dưới 15 độ
 
 ![](https://i.imgur.com/HN0cXRA.png)
 
-NGẮM ĐÚNG TIA TỪ TÂM GẬY ĐẾN TÂM BI MỤC TIÊU
+NGẮM ĐÚNG TIA TỪ TÂM GẬY ĐẾN GỐC TRÁI/PHẢI BI MỤC TIÊU
 
 ![](https://i.imgur.com/RhXSb2d.png)
 
@@ -18,9 +14,11 @@ NGẮM ĐÚNG TIA TỪ TÂM GẬY ĐẾN TÂM BI MỤC TIÊU
 
 
 
-#### 2.GÓC 15- 30 ĐỘ
+#### 2.GÓC 10-20 ĐỘ(1 găng tay)
 
-![](https://i.imgur.com/mvDuddS.png)
+
+
+![](https://i.imgur.com/ztKVxK5.jpg)
 
 
 
@@ -36,7 +34,11 @@ NGẮM ĐÚNG TIA TỪ TÂM GẬY ĐẾN TÂM BI MỤC TIÊU
 
 
 
-#### 3.GÓC TỪ 30 - 40 ĐỘ
+#### 3.GÓC TỪ 30 - 40 ĐỘ(3/4 từ MÉP đến con ốc gần nhất)
+
+
+
+![](https://i.imgur.com/YdOXC2d.png)
 
  ![](https://i.imgur.com/t5hEW93.png)
 
@@ -50,7 +52,7 @@ NGẮM TIA TỪ **GIỮA ĐẦU GẬY**  ==> **MÉP TRÁI** bi mục tiêu
 
 
 
-#### 4.GÓC TỪ 40 - 50 ĐỘ
+#### 4.GÓC TỪ 40 - 50 ĐỘ(3 găng tay)
 
 ![](https://i.imgur.com/Onvn1AA.png)
 
